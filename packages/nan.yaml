@@ -28,6 +28,13 @@ maintainers:
 - name: "Alois Schlögl"
   contact: "alois.schloegl@gmail.com"
 versions:
+- id: "3.7.1"
+  date: "2022-08-16"
+  sha256: "a6924ba7dfc6bb2c823cdbb9fc9452d9d21fc0b32b71eefe60a57cc07c46592d"
+  url: "https://pub.ista.ac.at/~schloegl/matlab/NaN/nan-3.7.1.tar.gz"
+  depends:
+  - "octave (>= 4.4.1)"
+  - "pkg"
 - id: "3.7.0"
   date: "2022-05-09"
   sha256: "77d27a05f34578ce4bb4caad8746e848f77d822614e362819f1aec50298a2b5b"
