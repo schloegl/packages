@@ -23,8 +23,8 @@ maintainers:
 versions:
 - id: "3.9.7"
   date: "2026-07-17"
-  sha256: "b71fa7b8a7cc4c7d2a0ea16d47042a4a66ba43698c744a3b71a69d6fcf1ccfa4"
-  url: "https://sourceforge.net/projects/biosig/files/Biosig%20for%20Octave/biosig4octave-3.9.7.src.tar.gz"
+  sha256: "e25a9089987fd51b4a752806581eb82c35b96bb368edc246a8771f4fd906e851"
+  url: "https://sourceforge.net/projects/biosig/files/Biosig%20for%20Octave/biosig4octave-3.9.7.src.tar.xz"
   depends:
   - "octave (>= 3.2.0)"
   - "pkg"
